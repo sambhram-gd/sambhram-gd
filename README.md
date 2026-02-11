@@ -15,4 +15,25 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sambhram-gd&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sambhram-gd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sambhram-gd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sambhram-gd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🟡 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sambhram-gd/sambhram-gd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sambhram-gd/sambhram-gd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sambhram-gd/sambhram-gd/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sambhram-gd&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
